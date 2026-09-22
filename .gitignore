@@ -1,4 +1,4 @@
-# .gitignore
+.gitignore
 .env
 __pycache__/
 *.pyc

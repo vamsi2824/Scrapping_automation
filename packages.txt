@@ -1,2 +1,6 @@
 zlib1g-dev
+<<<<<<< HEAD
 libjpeg-dev
+=======
+libjpeg-dev
+>>>>>>> 27f7e7082bb99a3dcd7ce35a56f6c11a4ebb1f98
