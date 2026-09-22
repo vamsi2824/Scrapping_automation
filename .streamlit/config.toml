@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#2563EB"               # Modern SaaS Royal Blue
+backgroundColor = "#F8FAFC"            # Slate-50 background
+secondaryBackgroundColor = "#FFFFFF"   # Pure white for cards and sidebar
+textColor = "#0F172A"                  # Slate-900 high-contrast text
+font = "sans serif"
+
+[client]
+showErrorDetails = false
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
